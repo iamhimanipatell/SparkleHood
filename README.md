@@ -1,3 +1,30 @@
+1. Project Title and Description
+AI Safety Dashboard
+
+A simple, interactive front-end interface for viewing and reporting on virtual AI security incidents.
+
+2. Target
+This project illustrates basic front-end functionality. This dashboard helps you log and visualize AI security incidents, and set up your HumanChain mission.
+
+4. TechStack
+Platform: Web
+Language: Typescript
+Framework: React
+Styling: CSS (Flexbox/Grid for Layout)
+
+5. File Structure
+src/didatedashboard.tsx -haupt -dashboard Components
+src/incispylist.tsx-incist list and filtering
+src/incispsform. Design decisions/challenges
+Use React for component-based architecture and state management.
+
+
+
+
+
+
+
+-------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
