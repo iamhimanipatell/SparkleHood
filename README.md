@@ -1,6 +1,4 @@
-Absolutely! Here’s a **simplified and very clear version** you can use in your README:
 
----
 
 ## How to Build, Install, and Run Locally
 
