@@ -1,3 +1,39 @@
+Absolutely! Here’s a **simplified and very clear version** you can use in your README:
+
+---
+
+## How to Build, Install, and Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone <your-repo-link>
+   cd <your-repo-folder>
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm start
+   ```
+
+4. **Open your browser and go to:**  
+   [http://localhost:3000](http://localhost:3000)
+
+> _Replace `<your-repo-link>` and `<your-repo-folder>` with your actual repository link and folder name._
+
+## Design Decisions & Challenges
+
+- Used React’s `useState` for local, in-memory storage (no backend).
+- Improved UI with alternating card styles, severity colors, and icons.
+- Made layout responsive using CSS Grid and Flexbox.
+- Added simple form validation (required fields).
+- Split code into small components for clarity.
+- 
+___________________________________________
 1. Project Title and Description
 AI Safety Dashboard
 
